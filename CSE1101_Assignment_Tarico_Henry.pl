@@ -11,7 +11,7 @@
 % Mr. John is an expert in Biology and has many years of experiencee
 
 
-% git repo: https://github.com/TaricoHenry/CSE2102-Assignment-1
+% git repo: https://github.com/TaricoHenry/CSE1101_Assignment_1
 % linkedin profile: https://gy.linkedin.com/in/tarico-henry
 
 % Assingment definition file is located in the README file of the repo.
