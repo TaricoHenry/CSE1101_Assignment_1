@@ -12,7 +12,7 @@
 
 
 % git repo: https://github.com/TaricoHenry/CSE1101_Assignment_1
-% linkedin profile: https://gy.linkedin.com/in/tarico-henry
+% linkedin profile: https://gy.linkedin.com/in/tarico-henry-24aa96352
 
 % Assingment definition file is located in the README file of the repo.
 
